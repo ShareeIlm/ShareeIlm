@@ -4,6 +4,6 @@ This repository was created to share Islamic Information (like notes, tools, lec
 # Notes
 
 # Tools
-- [Islamic Tools](Islamic Tools.md)
+- [Islamic Tools](Islamic%20Tools.md)
 
 
