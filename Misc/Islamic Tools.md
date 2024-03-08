@@ -24,6 +24,7 @@
 
 # QURAN
 ---
+>**RECOMMENDATIONS**:
 >- **Translation**: Taqi Ud Din Al-Hilal, Mohsin Khan (Al-Hilal & Khan)
 >- **Tafsir**: Tafsir Ibn Kathir or Tafsir As-Sa'di
 
