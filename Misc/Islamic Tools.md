@@ -4,7 +4,7 @@
 ---
 - **Websites**:
 	- [Hadithhub.com](Hadithhub.com)
-		- Has gradings of [[Shaykh Nasir Ud Din Al-Albani]], [[Shaykh Zubair Ali Zai]] and others
+		- Has gradings of Shaykh Nasir Ud Din Al-Albani, Shaykh Zubair Ali Zai and others
 	- [Sunnah.com](Sunnah.com)
 - **Mobile**:
 	- **IOS**: 
