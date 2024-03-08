@@ -17,7 +17,6 @@
 - **Telegram Channels**: (search your questions here)
 	- ⭐ [Shaykh Ibn Uthaymeen](https://t.me/IbnUthaymin)
 	- ⭐ [Shaykh Ibn Baz](https://t.me/MajmooF)
-		- [Shaykh Ibn Baz 2](https://t.me/SheikhIbnBaz)
 	- ⭐ [Shaykh Aziz Bin Farhan](https://t.me/sheikhaziz)
 	- [Shaykh Salih Al Fawzan](https://t.me/SheikhSalihAlFawzan) 
 	- [Shaykh Albani](https://t.me/AlbaniEng)
