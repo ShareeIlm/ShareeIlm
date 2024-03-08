@@ -49,6 +49,10 @@ This repository was created to share Islamic Information (like notes, tools, lec
 	- [Scholarly Subtitles - YouTube](https://youtube.com/@Scholarly_Subtitles?si=75YWV4pjwSYKRf8Z)
 	- [Nesmu Dawah - YouTube](https://www.youtube.com/@nesmudawah)
 ## Urdu
+- Shaykh Wasiullah Abbas (Makkah): 
+	- [Dr Wasiullah Abbas - YouTube](https://youtube.com/@DrWasiullahAbbas?si=5QYjJbPbHPfpkcPr)
+- Shaykh Maqsood Ul Hasan Faizi:
+	- [islamidawah - YouTube](https://youtube.com/@islamidawah?si=wo9c4drMNC4_oOp8)
 - Shaykh Abu Rizwan Mohammadi, Shaykh Mohammad Rehmani, Shaykh Abu Zaid Zameer and others:
 	- General
 		- [AHLE HADEES ULAMA - YouTube](https://www.youtube.com/@ahlehadeesulama)
@@ -62,10 +66,6 @@ This repository was created to share Islamic Information (like notes, tools, lec
 		- [Sanabil Dawah Centre - YouTube](https://youtube.com/@SanabilDawahCentre?si=mznWytEfguN2cIGX)
 	- Dr Obaidullah Madani, Shaykh Abu Rizwan Mohammadi and others:
 		- [Markaz Imam Bukhari, Taloli - Mumbai - YouTube](https://www.youtube.com/@MarkazImamBukhari)
-- Shaykh Wasiullah Abbas (Makkah): 
-	- [Dr Wasiullah Abbas - YouTube](https://youtube.com/@DrWasiullahAbbas?si=5QYjJbPbHPfpkcPr)
-- Shaykh Maqsood Ul Hasan Faizi:
-	- [islamidawah - YouTube](https://youtube.com/@islamidawah?si=wo9c4drMNC4_oOp8)
 
 ## Arabic
 - #todo
