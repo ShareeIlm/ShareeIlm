@@ -59,12 +59,12 @@ This repository was created to share Islamic Information (like notes, tools, lec
 		- [islamiclectures.net - YouTube](https://www.youtube.com/@islamiclecturesnet)
 	- Shaykh Muhammad Rehmani and others:
 		- [Sanabil Dawah Centre - YouTube](https://youtube.com/@SanabilDawahCentre?si=mznWytEfguN2cIGX)
+	- Dr Obaidullah Madani, Shaykh Abu Rizwan Mohammadi and others:
+		- [Markaz Imam Bukhari, Taloli - Mumbai - YouTube](https://www.youtube.com/@MarkazImamBukhari)
 - Shaykh Wasiullah Abbas (Makkah): 
 	- [Dr Wasiullah Abbas - YouTube](https://youtube.com/@DrWasiullahAbbas?si=5QYjJbPbHPfpkcPr)
 - Shaykh Maqsood Ul Hasan Faizi:
 	- [islamidawah - YouTube](https://youtube.com/@islamidawah?si=wo9c4drMNC4_oOp8)
-- Dr Obaidullah Madani, Shaykh Abu Rizwan Mohammadi and others:
-	- [Markaz Imam Bukhari, Taloli - Mumbai - YouTube](https://www.youtube.com/@MarkazImamBukhari)
 
 ## Arabic
 - #todo
