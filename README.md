@@ -47,6 +47,7 @@ This repository was created to share Islamic Information (like notes, tools, lec
 	- [Shaykh Zulfiker Ibrahim Memon Official - YouTube](https://youtube.com/@ShaykhZulfikerMemon?si=vAJ4FKVbWK7-_OLX)
 - Multiple (Arab scholars)
 	- [Scholarly Subtitles - YouTube](https://youtube.com/@Scholarly_Subtitles?si=75YWV4pjwSYKRf8Z)
+	- [Nesmu Dawah - YouTube](https://www.youtube.com/@nesmudawah)
 ## Urdu
 - Shaykh Abu Rizwan Mohammadi, Shaykh Mohammad Rehmani, Shaykh Abu Zaid Zameer and others:
 	- [AHLE HADEES ULAMA - YouTube](https://www.youtube.com/@ahlehadeesulama)
