@@ -46,8 +46,8 @@
 - A person who has knowledge will react differently in the face of knowledge than the one who does not have knowledge
 
 >  Taa-Haa (20:114)
->فَتَعَالَى اللَّهُ الْمَلِكُ الْحَقُّ ۗ وَلَا تَعْجَلْ بِالْقُرْآنِ مِنْ قَبْلِ أَنْ يُقْضَىٰ إِلَيْكَ وَحْيُهُ ۖ **وَقُلْ رَبِّ زِدْنِي عِلْمًا**
->Then High above all be Allah, the True King. And be not in haste with the Quran before its revelation is completed to you, and say:"**My Rabb! Increase me in knowledge.**"
+>- فَتَعَالَى اللَّهُ الْمَلِكُ الْحَقُّ ۗ وَلَا تَعْجَلْ بِالْقُرْآنِ مِنْ قَبْلِ أَنْ يُقْضَىٰ إِلَيْكَ وَحْيُهُ ۖ **وَقُلْ رَبِّ زِدْنِي عِلْمًا**
+>- Then High above all be Allah, the True King. And be not in haste with the Quran before its revelation is completed to you, and say:"**My Rabb! Increase me in knowledge.**"
 >>Benefit
 >>- There is nothing that is asked in excessiveness in the Quran **except in Knowledge**
 >>- The only thing Nabi (ﷺ) was asked by Allah was make dua for increase in knowledge
@@ -68,8 +68,8 @@
 - Allah command Nabi (ﷺ) to ask for abundance in knowledge
 
 >  Az-Zumar (39:9)
->أَمَّنْ هُوَ قَانِتٌ آنَاءَ اللَّيْلِ سَاجِدًا وَقَائِمًا يَحْذَرُ الْآخِرَةَ وَيَرْجُو رَحْمَةَ رَبِّهِ ۗ قُلْ **هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ** ۗ إِنَّمَا يَتَذَكَّرُ أُولُو الْأَلْبَابِ
->Is one who is obedient to Allah, prostrating himself or standing during the hours of the night, fearing the Hereafter and hoping for the Mercy of his Lord? Say:"**Are those who know equal to those who know not**?" It is only men of understanding who will remember.
+>- أَمَّنْ هُوَ قَانِتٌ آنَاءَ اللَّيْلِ سَاجِدًا وَقَائِمًا يَحْذَرُ الْآخِرَةَ وَيَرْجُو رَحْمَةَ رَبِّهِ ۗ قُلْ **هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ** ۗ إِنَّمَا يَتَذَكَّرُ أُولُو الْأَلْبَابِ
+>- Is one who is obedient to Allah, prostrating himself or standing during the hours of the night, fearing the Hereafter and hoping for the Mercy of his Lord? Say:"**Are those who know equal to those who know not**?" It is only men of understanding who will remember.
 >>Benefit
 >>- the ignorant ones raises the ignorant one
 >>- Allah raises the truly knowledgeable ones

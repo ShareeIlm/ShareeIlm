@@ -22,8 +22,8 @@
 - Worship is not accepted unless it is with **sincerity** to Allah and it follows the **guidelines** Allah set
 
 >  Al-Kahf (18:110) Second point proof
->قُلْ إِنَّمَا أَنَا بَشَرٌ مِثْلُكُمْ يُوحَىٰ إِلَيَّ أَنَّمَا إِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ ۖ فَمَنْ كَانَ يَرْجُو لِقَاءَ رَبِّهِ فَلْيَعْمَلْ **عَمَلًا صَالِحًا** وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّهِ أَحَدًا
->Say:"I am only a man like you. It has been inspired to me that your Ilah is One Ilah. So whoever hopes for the Meeting with his Rabb, let him **work righteousness** and associate none as a partner in the worship of his Rabb."
+>- قُلْ إِنَّمَا أَنَا بَشَرٌ مِثْلُكُمْ يُوحَىٰ إِلَيَّ أَنَّمَا إِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ ۖ فَمَنْ كَانَ يَرْجُو لِقَاءَ رَبِّهِ فَلْيَعْمَلْ **عَمَلًا صَالِحًا** وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّهِ أَحَدًا
+>- Say:"I am only a man like you. It has been inspired to me that your Ilah is One Ilah. So whoever hopes for the Meeting with his Rabb, let him **work righteousness** and associate none as a partner in the worship of his Rabb."
 - Here Allah says "*A'mala Saliha*" and not "*A'mala*" hence **actions must be righteous** (Saliha), in accordance to the **divine revelations**. The actions should not be something that comes from ones **intellect without divine revelation** as these actions are **not Righteous** (Saliha)
 - Based on point 2, the scholars have said that the **blind follower does not worship Allah as he has no knowledge**
 
@@ -57,8 +57,8 @@
 - All of these benefits **cannot be achieved without knowledge**
  
 >  Ash-Shura (42:11)
->فَاطِرُ السَّمَاوَاتِ وَالْأَرْضِ ۚ جَعَلَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا وَمِنَ الْأَنْعَامِ أَزْوَاجًا ۖ يَذْرَؤُكُمْ فِيهِ ۚ **لَيْسَ كَمِثْلِهِ شَيْءٌ** ۖ وَهُوَ السَّمِيعُ الْبَصِيرُ
->The Creator of the heavens and the earth. He has made for you mates from yourselves, and for the cattle mates. By this means He creates you. **There is nothing like unto Him**, and He is the All-Hearer, the All-Seer.
+>- فَاطِرُ السَّمَاوَاتِ وَالْأَرْضِ ۚ جَعَلَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا وَمِنَ الْأَنْعَامِ أَزْوَاجًا ۖ يَذْرَؤُكُمْ فِيهِ ۚ **لَيْسَ كَمِثْلِهِ شَيْءٌ** ۖ وَهُوَ السَّمِيعُ الْبَصِيرُ
+>- The Creator of the heavens and the earth. He has made for you mates from yourselves, and for the cattle mates. By this means He creates you. **There is nothing like unto Him**, and He is the All-Hearer, the All-Seer.
 
 # 50-60
 ---
@@ -67,8 +67,8 @@
 - This respect and honor will not only be limited to this life, but it will extend to the hereafter
  
 >  Al-Mujaadila (58:11)
->يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قِيلَ لَكُمْ تَفَسَّحُوا فِي الْمَجَالِسِ فَافْسَحُوا يَفْسَحِ اللَّهُ لَكُمْ ۖ وَإِذَا قِيلَ انْشُزُوا فَانْشُزُوا **يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَالَّذِينَ أُوتُوا الْعِلْمَ دَرَجَاتٍ ۚ** وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
->O you who believe! When you are told to make room in the assemblies, make room. Allah will give you room. And when you are told to rise up, rise up. **Allah will exalt in degree those of you who believe, and those who have been granted knowledge**. And Allah is Well-Acquainted with what you do.
+>- يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قِيلَ لَكُمْ تَفَسَّحُوا فِي الْمَجَالِسِ فَافْسَحُوا يَفْسَحِ اللَّهُ لَكُمْ ۖ وَإِذَا قِيلَ انْشُزُوا فَانْشُزُوا **يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَالَّذِينَ أُوتُوا الْعِلْمَ دَرَجَاتٍ ۚ** وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
+>- O you who believe! When you are told to make room in the assemblies, make room. Allah will give you room. And when you are told to rise up, rise up. **Allah will exalt in degree those of you who believe, and those who have been granted knowledge**. And Allah is Well-Acquainted with what you do.
 
 
 
