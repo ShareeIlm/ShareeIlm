@@ -1,19 +1,21 @@
 # About
----
 This repository was created to share Islamic Information (like notes, tools, lectures etc.). You can learn more about me here [About Me](./Misc/About%20Me.md)
 
-# Notes
 ---
+---
+# Notes
 - [Usool At-Thalatha Shaykh Zulfiker Ibrahim Memon](./Notes/Usool%20At-Thalatha%20-%20Shaykh%20Zulfiker%20Ibrahim%20Memon)
 	- **Playlist**: [Explanation of al-Usul al-Thalathah - Shaykh Zulfiker Ibrahim Memon - YouTube](https://www.youtube.com/playlist?list=PLC6daajq6Qj_LW87J7RYmZiSR4b-ZWNP9)
 	- **Book**: [Usool At Thalatha](./Books/The%20Three%20Fundamental%20Principles.pdf)
 
-# Tools
 ---
+---
+# Tools
 - [Islamic Tools](./Misc/Islamic%20Tools.md)
 
-# Books Downloads #todo 
 ---
+---
+# Books Downloads #todo 
 
 ## Aqeedah
 - [Usool At Thalatha](./Books/The%20Three%20Fundamental%20Principles.pdf)
@@ -34,8 +36,9 @@ This repository was created to share Islamic Information (like notes, tools, lec
 ## Usool Ul Hadees
 
 
-# YouTube Channels Of Scholars
 ---
+---
+# YouTube Channels Of Scholars
 
 ## English
 - Shaykh Zulfiker and Others (Salafi Scholars): 
