@@ -50,9 +50,10 @@ This repository was created to share Islamic Information (like notes, tools, lec
 	- [Nesmu Dawah - YouTube](https://www.youtube.com/@nesmudawah)
 ## Urdu
 - Shaykh Abu Rizwan Mohammadi, Shaykh Mohammad Rehmani, Shaykh Abu Zaid Zameer and others:
-	- [AHLE HADEES ULAMA - YouTube](https://www.youtube.com/@ahlehadeesulama)
-	- [Salafi Dawat - Ahle Hadees - YouTube](https://www.youtube.com/@SalafiDawatAhleHadees)
-	- [DAR-UT-TAUHEED (دار التوحيد) - YouTube](https://www.youtube.com/@DARUTTAUHEED)
+	- General
+		- [AHLE HADEES ULAMA - YouTube](https://www.youtube.com/@ahlehadeesulama)
+		- [Salafi Dawat - Ahle Hadees - YouTube](https://www.youtube.com/@SalafiDawatAhleHadees)
+		- [DAR-UT-TAUHEED (دار التوحيد) - YouTube](https://www.youtube.com/@DARUTTAUHEED)
 	- Shaykh Abu Zaid Zameer:
 		- [Shaykh Abu Zaid Zameer - YouTube](https://www.youtube.com/@shaykhabuzaidzameer)
 		- [Salafy Fiqh Channel - YouTube](https://www.youtube.com/@SalafyFiqhChannel)
