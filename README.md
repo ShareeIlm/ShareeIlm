@@ -7,7 +7,7 @@ This repository was created to share Islamic Information (like notes, tools, lec
 - **Notes**: [Usool At-Thalatha Shaykh Zulfiker Ibrahim Memon](./Notes/Usool%20At-Thalatha%20-%20Shaykh%20Zulfiker%20Ibrahim%20Memon)
 	- **Playlist**: [Explanation of al-Usul al-Thalathah - Shaykh Zulfiker Ibrahim Memon - YouTube](https://www.youtube.com/playlist?list=PLC6daajq6Qj_LW87J7RYmZiSR4b-ZWNP9)
 	- **Book**: [Usool At Thalatha](./Books/The%20Three%20Fundamental%20Principles.pdf)
-
+	- [Islamic Finance](Islamic%20Finance%20-%20S.%20Obaidur%20Rahman%20and%20S.%20Tariq%20Safi%2FIslamic%20Finance%20-%20S.%20Obaidur%20Rahman%20and%20S.%20Tariq%20Safi%20 (Incomplete).pdf)
 ---
 ---
 # Tools
