@@ -71,6 +71,8 @@ This repository was created to share Islamic Information (like notes, tools, lec
 		- [Sanabil Dawah Centre - YouTube](https://youtube.com/@SanabilDawahCentre?si=mznWytEfguN2cIGX)
 	- Dr Obaidullah Madani, Shaykh Abu Rizwan Mohammadi and others:
 		- [Markaz Imam Bukhari, Taloli - Mumbai - YouTube](https://www.youtube.com/@MarkazImamBukhari)
+- Shaykh Abdullah Nasir Rehmani
+    - [YouTube](https://youtube.com/@ShaikhAbdullahNasirRehmani?si=zmsTaJqf_5I8OVzn)
 
 ## Arabic
 - #todo
