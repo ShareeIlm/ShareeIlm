@@ -3,9 +3,9 @@
 # Hadith
 ---
 - **Websites**:
-	- [Hadithhub.com](Hadithhub.com)
+	- [Hadithhub.com](https://Hadithhub.com)
 		- Has gradings of Shaykh Nasir Ud Din Al-Albani, Shaykh Zubair Ali Zai and others
-	- [Sunnah.com](Sunnah.com)
+	- [Sunnah.com](https://Sunnah.com)
 - **Mobile**:
 	- **IOS**: 
 		- [Hadith Collection (All in one)](https://apps.apple.com/us/app/hadith-collection-all-in-one/id1511696610)
@@ -56,3 +56,9 @@
 	- [Shaykh Salih Al Fawzan](https://t.me/SheikhSalihAlFawzan) 
 	- [Shaykh Albani](https://t.me/AlbaniEng)
 	- [Shaykh Abu Zaid Zameer](https://t.me/shaykhabuzaidzameerclips)
+
+# Misc
+---
+- **Note Taking**:
+	- Use a pocket book
+	- [Obsidian Tutorial](Misc/Obsidian%20Tutorial.md)
