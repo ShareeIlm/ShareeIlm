@@ -55,7 +55,7 @@ This repository was created to share Islamic Information (like notes, tools, lec
 - Multiple (Arab scholars)
 	- [Scholarly Subtitles - YouTube](https://youtube.com/@Scholarly_Subtitles?si=75YWV4pjwSYKRf8Z)
 	- [Nesmu Dawah - YouTube](https://www.youtube.com/@nesmudawah)
-## Urdu
+## Urdu/Hindi
 - Shaykh Wasiullah Abbas (Makkah): 
 	- [Dr Wasiullah Abbas - YouTube](https://youtube.com/@DrWasiullahAbbas?si=5QYjJbPbHPfpkcPr)
 - Shaykh Maqsood Ul Hasan Faizi:
@@ -73,6 +73,7 @@ This repository was created to share Islamic Information (like notes, tools, lec
 		- [Shaykh Abu Zaid Zameer - YouTube](https://www.youtube.com/@shaykhabuzaidzameer)
 		- [Salafy Fiqh Channel - YouTube](https://www.youtube.com/@SalafyFiqhChannel)
 		- [islamiclectures.net - YouTube](https://www.youtube.com/@islamiclecturesnet)
+		- [Salafy Answers - YouTube](https://www.youtube.com/salafyanswers) ([Search Here](https://www.google.com/search?q=TARAWEEH+site%3Ahttps%3A%2F%2Fwww.youtube.com%2F+%22Salafy+Answers+%22Abu+Zaid+Zameer%22&oq=TARAWEEH+site%3Ahttps%3A%2F%2Fwww.youtube.com%2F+%22Salafy+Answers+%22Abu+Zaid+Zameer%22&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBjgzajBqMagCALACAA&sourceid=chrome&ie=UTF-8))
 	- Shaykh Muhammad Rehmani and others:
 		- [Sanabil Dawah Centre - YouTube](https://youtube.com/@SanabilDawahCentre?si=mznWytEfguN2cIGX)
 
