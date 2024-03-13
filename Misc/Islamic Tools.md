@@ -10,7 +10,7 @@
 	- **IOS**: 
 		- [Hadith Collection (All in one)](https://apps.apple.com/us/app/hadith-collection-all-in-one/id1511696610)
 	- **Android**: 
-		- [Hadith Collection (All in one) - Apps on Google Play](https://play.google.com/store/apps/details?id=com.greentech.hadith&hl=en&gl=US)
+		- [Hadith Collection (All in one)](https://play.google.com/store/apps/details?id=com.greentech.hadith&hl=en&gl=US)
 
 # Fatwa
 ---

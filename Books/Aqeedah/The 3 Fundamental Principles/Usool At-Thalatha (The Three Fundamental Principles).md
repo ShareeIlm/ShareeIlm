@@ -7,7 +7,7 @@
 - [Usool At-Thalatha (The Three Fundamental Principles)](Usool%20At-Thalatha%20(The%20Three%20Fundamental%20Principles).pdf)
 
 ## Urdu Book
-- 
+- [Three Fundamentals URDU](Three%20Fundamentals%20(Urdu).pdf)
 
 # Explanation of the Book
 
