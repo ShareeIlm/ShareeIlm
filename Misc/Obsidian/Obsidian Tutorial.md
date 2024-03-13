@@ -1,7 +1,7 @@
 Obsidian is a note taking app which emphasized on creating links between notes. It's like creating your own Wikipedia.
 
-- Website and Download: [Obsidian](https://www.obsidian.md)
-- For usage on Phone, Jump [[Syncing Obsidian]]
+- Website and Download Link: [Obsidian](https://www.obsidian.md)
+- For usage on Phone, Jump [Syncing Obsidian](Syncing%20Obsidian.md)
 
 # Getting started
 Download the for your device. upon running you are created by a window asking you to "Open" or "Create" a "Vault"
@@ -119,9 +119,12 @@ Efficiently learning to use Obsidian requires learning the keyboard shortcuts. Y
 - It is recommended to set shortcuts of commands you use frequently
 
 # Part 3: Linking
-You can link notes just like on Wikipedia.org. It's best to keep each file focused on one topic. This way, it can be referenced anywhere and still make sense on its own. You can view your links by opening the global graph by pressing `Ctrl-g` or running "Open Global Graph" in the command palette `Ctrl-p`.
+You can link notes just like on Wikipedia.org. It's best to keep each file focused on one topic. This way, it can be referenced anywhere and still make sense on its own. 
 
-Syntax:
+- Command Palette shortcut "Add Internal link" (set a shortcut for this)
+- You can view your links by opening the global graph by pressing `Ctrl-g` or running "Open Global Graph" in the command palette `Ctrl-p`.
+
+Syntax: 
 ```
 [[filename]]
 
@@ -140,6 +143,7 @@ The `Sun` file says
 It rises in the [[Morning|morning]]
 ```
 
-# Part 4: Quick Access
+# Part 4: Misc
 You can quickly access your notes by pressing `Ctrl-O` or running "Open Quick Switcher" in the command palette.
 
+- if you have reached till this point, you should refer to the [Obsidian.md](https://help.obsidian.md/) documentation for more details
