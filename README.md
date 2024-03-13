@@ -23,25 +23,25 @@ This repository was created to share Islamic Information (like notes, tools, lec
 ---
 # Books Downloads #todo 
 
-## Aqeedah
+## Aqeedah Books
 - [Usool At-Thalatha (The Three Fundamental Principles)](Books/Aqeedah/The%203%20Fundamental%20Principles/Usool%20At-Thalatha%20(The%20Three%20Fundamental%20Principles).md)
 - [Kashf-Ush Shubuhaat (The Removal of the Doubts)](Books/Aqeedah/Kashf-Ush%20Shubuhaat%20(The%20Removal%20of%20the%20Doubts).pdf)
 
-## Manhaj
+## Manhaj Books
 
-## Fiqh
+## Fiqh Books
 
-## Hadith
+## Hadith Books
 
-## Arabic
+## Arabic Books
 
-## Tafsir
+## Tafsir Books
 
-## Seerat
+## Seerat Books
 
-## Adab
+## Adab Books
 
-## Usool Ul Hadees
+## Usool Ul Hadees Books
 
 
 ---
@@ -62,7 +62,7 @@ This repository was created to share Islamic Information (like notes, tools, lec
 - Shaykh Maqsood Ul Hasan Faizi:
 	- [islamidawah - YouTube](https://youtube.com/@islamidawah?si=wo9c4drMNC4_oOp8)
 - Dr Obaidullah Madani, Shaykh Abu Rizwan Mohammadi and others:
-	- [Markaz Imam Bukhari](https://www.youtube.com/@MarkazImamBukhari)
+	- [Markaz Imam Bukhari, Taloli - Mumbai - YouTube](https://www.youtube.com/@MarkazImamBukhari)
 - Shaykh Abdullah Nasir Rehmani
     - [YouTube](https://youtube.com/@ShaikhAbdullahNasirRehmani?si=zmsTaJqf_5I8OVzn)
 - Shaykh Abu Rizwan Mohammadi, Shaykh Mohammad Rehmani, Shaykh Abu Zaid Zameer and others:
