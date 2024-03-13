@@ -1,3 +1,3 @@
-- **Book**: [README](../../Books/Aqeedah/The%203%20Fundamental%20Principles/README.md)
+- **Book**: [Usool At-Thalatha](../../Books/Aqeedah/The%203%20Fundamental%20Principles/README.md)
 - **My Notes (PDFs)**: [Usool At-Thalatha Shaykh Zulfiker Ibrahim Memon](/Notes/Usool%20At-Thalatha%20-%20Shaykh%20Zulfiker%20Ibrahim%20Memon/)
 - **Lectures Playlist**: [Explanation of al-Usul al-Thalathah - Shaykh Zulfiker Ibrahim Memon - YouTube](https://www.youtube.com/playlist?list=PLC6daajq6Qj_LW87J7RYmZiSR4b-ZWNP9)
