@@ -12,5 +12,5 @@
 	- Shaykh Nasir Ud Din Al-Albani
 	- Shaykh Abdullah Nasir Rehmani
 	- Shaykh Wasiullah Abbas
-	- And other Salaf & Ahlul Hadith scholars etc... 
+	- And other Salafi & Ahlul Hadith scholars
 - **Contact**: 4m24i64d9@mozmail.com
