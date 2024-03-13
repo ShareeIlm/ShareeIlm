@@ -13,6 +13,7 @@ This repository was created to share Islamic Information (like notes, tools, lec
 ## Aqeedah Books
 - [Usool At-Thalatha (The Three Fundamental Principles)](Books/Aqeedah/The%203%20Fundamental%20Principles/README.md)
 - [Kashf-Ush Shubuhaat (The Removal of the Doubts)](Books/Aqeedah/Removal%20Of%20Doubts/README.md)
+- Al Aqidah Al Wastiyyah #todo 
 
 ## Manhaj Books
 
