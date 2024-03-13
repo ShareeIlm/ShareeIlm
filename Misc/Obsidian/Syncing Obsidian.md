@@ -15,6 +15,6 @@ Obsidian can be synced for **Free** using the plugin "Remotely Save".
 # Phone Side
 1. Create a vault with the **same name** as the desktop vault
 2. Install remotely save following the same steps as above ^^^^. Copy the sync timers too.
-3. Run Sync by swiping down at the home screen of the vault and typing "Start sync"
+3. Run "Start Sync" from the command palette by swiping down at the home screen of the vault.
 
 Now you vault will sync automatically once every 10 minutes.
