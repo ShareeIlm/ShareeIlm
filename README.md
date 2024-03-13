@@ -13,7 +13,7 @@ This repository was created to share Islamic Information (like notes, tools, lec
 ### Usool At Thalatha - Shaykh Zulfiker Ibrahim Memon
 - **Notes**: [Usool At-Thalatha Shaykh Zulfiker Ibrahim Memon](./Notes/Usool%20At-Thalatha%20-%20Shaykh%20Zulfiker%20Ibrahim%20Memon)
 	- **Playlist**: [Explanation of al-Usul al-Thalathah - Shaykh Zulfiker Ibrahim Memon - YouTube](https://www.youtube.com/playlist?list=PLC6daajq6Qj_LW87J7RYmZiSR4b-ZWNP9)
-	- **Book**: [The Three Fundamental Principles](Books/The%20Three%20Fundamental%20Principles.pdf)
+	- **Book**: [The Three Fundamental Principles](Books/Aqeedah/Usool%20At-Thalatha%20(The%20Three%20Fundamental%20Principles).pdf)
 ---
 ---
 # Tools
@@ -25,8 +25,9 @@ This repository was created to share Islamic Information (like notes, tools, lec
 # Books Downloads #todo 
 
 ## Aqeedah
-- [Usool At Thalatha](./Books/The%20Three%20Fundamental%20Principles.pdf)
-- [KashfUsh shubuhaat](Books/Kashf-Ush%20Shubuhaat.pdf)
+- [Usool At Thalatha](Books/Aqeedah/Usool%20At-Thalatha%20(The%20Three%20Fundamental%20Principles).pdf)
+	- **Explanation**: [Shaykh Muhammad Ibn Salih Al Uthaymeenn](Books/Aqeedah/Explanation%20of%20the%20Three%20Fundamental%20Principles%20of%20Islaam.pdf)
+- [Kashf-Ush Shubuhaat (The Removal of the Doubts)](Books/Aqeedah/Kashf-Ush%20Shubuhaat%20(The%20Removal%20of%20the%20Doubts).pdf)
 ## Manhaj
 
 ## Fiqh
