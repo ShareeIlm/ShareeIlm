@@ -26,7 +26,7 @@ This repository was created to share Islamic Information (like notes, tools, lec
 
 ## Aqeedah
 - [Usool At Thalatha](./Books/The%20Three%20Fundamental%20Principles.pdf)
-- 
+- [KashfUsh shubuhaat](Books/Kashf-Ush%20Shubuhaat.pdf)
 ## Manhaj
 
 ## Fiqh
