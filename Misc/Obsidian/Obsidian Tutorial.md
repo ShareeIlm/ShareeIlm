@@ -49,9 +49,9 @@ text text text...
 ## Night
 ### Dinner
 ```
-Make sure to use proper level heading and giving each heading a proper title. you can jump between these heading using the right sidebar
+Make sure to use proper level heading and giving each heading a proper title. you can jump between these heading using the right sidebar.
 
-![](Obsidian/Obsidian%20Tutorial%20sidebar.png)
+![Here](Obsidian/Obsidian%20Tutorial%20sidebar.png)
 
 ## Formatting
 
