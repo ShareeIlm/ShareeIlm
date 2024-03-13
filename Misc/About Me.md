@@ -3,8 +3,9 @@
 - I avoid speaking before the scholars speak
 - **Against Misguidances**:
 	- I follow all the 4 Imams, but i do not blindly follow any of them (*Ghair Muqallid*/Non Blind-Follower)
-	- I am stricly against *Ikwani*/*Khariji* mentality
-	- I do not engage in *Takfir* or criticizing the rulers or scholars
+	- I am strictly against *Ikwani*/*Khariji* mentality. Like engaging in:
+		- *Takfir* of people 
+		- Criticizing the rulers or scholars
 - **Scholars**: Some major scholars i take from include:
 	- Shaykh Saleh Ibn Fawzan
 	- Shaykh Abdul Aziz Ibn Baz

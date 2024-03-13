@@ -5,29 +5,38 @@ This repository was created to share Islamic Information (like notes, tools, lec
 ---
 # Tools
 - [Islamic Tools](Misc/Islamic%20Tools.md)
-- [Obsidian Tutorial](Misc/Obsidian%20Tutorial.md)
+- [Obsidian Tutorial](Misc/Obsidian/Obsidian%20Tutorial.md) (Good note taking tool for Tabil Ul Ilm)
 ---
 ---
 # Books Downloads #todo 
 
 ## Aqeedah Books
-- [Usool At-Thalatha (The Three Fundamental Principles)](Books/Aqeedah/The%203%20Fundamental%20Principles/README.md)
-- [Kashf-Ush Shubuhaat (The Removal of the Doubts)](Books/Aqeedah/Removal%20Of%20Doubts/README.md)
-- Al Aqidah Al Wastiyyah #todo 
+- [Usool At-Thalatha (The Three Fundamental Principles) - Shaykh Muhammad Ibn Abdul Wahhab](Books/Aqeedah/The%203%20Fundamental%20Principles/README.md)
+- [Kashf-Ush Shubuhaat (The Removal of the Doubts) - Shaykh Muhammad Ibn Abdul Wahhab](Books/Aqeedah/Removal%20Of%20Doubts/README.md)
+- Al Aqidah Al Wastiyyah - Shaykh Ul Islam Ibn Taymiyyah #todo 
+- Kitaab At Tawheed - Shaykh Muhammad Ibn Abdul Wahhab #todo 
 
 ## Manhaj Books
 
 ## Fiqh Books
+- [[Bulugh Al Maram - Shaykh Ibn Hajar]]
 
 ## Hadith Books
 
-## Arabic Books
+## Arabic Books #todo 
+- Madina Book One - Key 
+- Madina Book Two - Key
+- Madina Book Three - Key
 
 ## Tafsir Books
+- Tafsir As Si'di
+- Tafsir Ibn Kathir
 
 ## Seerat Books
+- Ar Raheeq Al Maktoom
 
 ## Adab Books
+- Al Adab Al Mufrad
 
 ## Usool Ul Hadees Books
 
@@ -45,7 +54,7 @@ This repository was created to share Islamic Information (like notes, tools, lec
 ---
 # YouTube Channels Of Scholars
 
-## English
+## English Channels
 - Shaykh Zulfiker and Others (Salafi Scholars): 
 	- [Markaz al-Sunnah - YouTube](https://youtube.com/@MarkazSunnahUK?si=Hc2IaMSRDDiiCVOq)
 - Shaykh Zulfiker Ibrahim Memon:
@@ -53,7 +62,7 @@ This repository was created to share Islamic Information (like notes, tools, lec
 - Multiple Arab scholars (English Translated):
 	- [Scholarly Subtitles - YouTube](https://youtube.com/@Scholarly_Subtitles?si=75YWV4pjwSYKRf8Z)
 	- [Nesmu Dawah - YouTube](https://www.youtube.com/@nesmudawah)
-## Urdu/Hindi
+## Urdu/Hindi Channels
 - Shaykh Wasiullah Abbas (Makkah): 
 	- [Dr Wasiullah Abbas - YouTube](https://youtube.com/@DrWasiullahAbbas?si=5QYjJbPbHPfpkcPr)
 - Shaykh Maqsood Ul Hasan Faizi:
@@ -75,6 +84,6 @@ This repository was created to share Islamic Information (like notes, tools, lec
 	- Shaykh Muhammad Rehmani and others:
 		- [Sanabil Dawah Centre - YouTube](https://youtube.com/@SanabilDawahCentre?si=mznWytEfguN2cIGX)
 
-## Arabic
+## Arabic Channels
 - #todo
 

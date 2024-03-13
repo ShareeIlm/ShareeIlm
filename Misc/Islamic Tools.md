@@ -65,4 +65,4 @@
 ---
 - **Note Taking**:
 	- Use a pocket book
-	- [Obsidian Tutorial](Misc/Obsidian%20Tutorial.md)
+	- [Obsidian Tutorial](Obsidian/Obsidian%20Tutorial.md)
