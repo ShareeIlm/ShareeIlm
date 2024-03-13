@@ -1,24 +1,24 @@
 # About
-This repository was created to share Islamic Information (like notes, tools, lectures etc.). You can learn more about me here [About Me](Misc/About%20Me.md).
+This repository was created to share Islamic Information (like notes, tools, lectures etc.). You can learn more about me here [About Me](./About%2520Me.md#).
 
 ---
 ---
 # Notes
 ## Standalone Lectures
-- **Notes**: [Islamic Finance](Notes/Islamic%20Finance%20-%20S.%20Obaidur%20Rahman%20and%20S.%20Tariq%20Safi/Islamic%20Finance%20-%20S.%20Obaidur%20Rahman%20and%20S.%20Tariq%20Safi%20-%20Incomplete.pdf) (Incomplete)
+- **Notes**: [Islamic Finance](./Notes/Islamic%20Finance%20-%20S.%20Obaidur%20Rahman%20and%20S.%20Tariq%20Safi/Islamic%20Finance%20-%20S.%20Obaidur%20Rahman%20and%20S.%20Tariq%20Safi%20-%20Incomplete.pdf) (Incomplete)
 	- **Videos**: [Video 1](https://www.youtube.com/watch?v=_w3D_90Yuj8) [Video 2](https://www.youtube.com/watch?v=1IhG1UtEvmI) [Video 3](https://www.youtube.com/watch?v=7anzIdv9fzg)
-- **Notes**: [The Status Of Sunnah - Shaykh Zulfiker Ibrahim Memon](/Notes/The%20Status%20of%20Sunnah%20-%20Shaykh%20Zulfiker%20Ibrahim%20Memon/The%20Status%20of%20Sunnah%20-%20Shaykh%20Zulfiker%20Ibrahim%20Memon.pdf)
+- **Notes**: [The Status Of Sunnah - Shaykh Zulfiker Ibrahim Memon](./Notes/The%20Status%20of%20Sunnah%20-%20Shaykh%20Zulfiker%20Ibrahim%20Memon/The%20Status%20of%20Sunnah%20-%20Shaykh%20Zulfiker%20Ibrahim%20Memon.pdf)
 	- **Video**: [The Status of the Sunnah - Shaykh Zulfiker Ibrahim Memon - YouTube](https://www.youtube.com/watch?v=M8uv7pcXubA)
 ## Teaching Books
 ### Usool At Thalatha - Shaykh Zulfiker Ibrahim Memon
 - **Notes**: [Usool At-Thalatha Shaykh Zulfiker Ibrahim Memon](./Notes/Usool%20At-Thalatha%20-%20Shaykh%20Zulfiker%20Ibrahim%20Memon)
 	- **Playlist**: [Explanation of al-Usul al-Thalathah - Shaykh Zulfiker Ibrahim Memon - YouTube](https://www.youtube.com/playlist?list=PLC6daajq6Qj_LW87J7RYmZiSR4b-ZWNP9)
-	- **Book**: [The Three Fundamental Principles](Books/The%20Three%20Fundamental%20Principles.pdf)
+	- **Book**: [The Three Fundamental Principles](./Books/The%20Three%20Fundamental%20Principles.pdf)
 ---
 ---
 # Tools
-- [Islamic Tools](Misc/Islamic%20Tools.md)
-- [Obsidian Tutorial](Misc/Obsidian%20Tutorial.md)
+- [Islamic Tools](./Islamic%2520Tools.md#)
+- [Obsidian Tutorial](./Obsidian%2520Tutorial.md#)
 
 ---
 ---
