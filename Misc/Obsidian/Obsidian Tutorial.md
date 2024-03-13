@@ -1,7 +1,7 @@
 Obsidian is a note taking app which emphasized on creating links between notes. It's like creating your own Wikipedia.
 
 - Website and Download Link: [Obsidian](https://www.obsidian.md)
-- For usage on Phone, Jump [Syncing Obsidian](Syncing%20Obsidian.md)
+- For syncing with Phone, Jump here: [Syncing Obsidian](Syncing%20Obsidian.md)
 
 # Getting started
 Download the for your device. upon running you are created by a window asking you to "Open" or "Create" a "Vault"
