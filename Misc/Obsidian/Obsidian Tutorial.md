@@ -51,7 +51,7 @@ text text text...
 ```
 Make sure to use proper level heading and giving each heading a proper title. you can jump between these heading using the right sidebar.
 
-![Here](Obsidian/Obsidian%20Tutorial%20sidebar.png)
+![Here](Obsidian%20Tutorial%20sidebar.png)
 
 ## Formatting
 
