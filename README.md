@@ -14,7 +14,6 @@ This repository was created to share Islamic Information (like notes, tools, lec
 - **Notes**: [The Status Of Sunnah - Shaykh Zulfiker Ibrahim Memon](/Notes/The%20Status%20of%20Sunnah%20-%20Shaykh%20Zulfiker%20Ibrahim%20Memon/The%20Status%20of%20Sunnah%20-%20Shaykh%20Zulfiker%20Ibrahim%20Memon.pdf) | **Video**: [Video link](https://www.youtube.com/watch?v=M8uv7pcXubA)
 ## Teaching Books
 - [Usool At-Thalatha Shaykh Zulfiker Ibrahim Memon](Notes/Usool%20At-Thalatha%20-%20Shaykh%20Zulfiker%20Ibrahim%20Memon/README.md)
-- [9 Lecture - Usool At-Thalatha - Shaykh Zulfiker Ibrahim Memon](9%20Lecture%20-%20Usool%20At-Thalatha%20-%20Shaykh%20Zulfiker%20Ibrahim%20Memon.pdf)
 ---
 ---
 # Books Downloads #todo 
