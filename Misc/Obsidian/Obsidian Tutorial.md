@@ -147,3 +147,4 @@ It rises in the [[Morning|morning]]
 You can quickly access your notes by pressing `Ctrl-O` or running "Open Quick Switcher" in the command palette.
 
 - if you have reached till this point, you should refer to the [Obsidian.md](https://help.obsidian.md/) documentation for more details
+- Experiment around with the core plugins and the community plugins. These are there to improve the functionality of the app.
