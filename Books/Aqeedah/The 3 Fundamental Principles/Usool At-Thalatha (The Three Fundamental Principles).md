@@ -18,7 +18,7 @@
 ### Arabic
 - 
 ### English
-- [Shaykh Zulfiker Ibrahim Memon](https://www.youtube.com/watch?v=dVPfDx4hSKc&list=PLC6daajq6Qj_LW87J7RYmZiSR4b-ZWNP9)
+- [Shaykh Zulfiker Ibrahim Memon](https://www.youtube.com/playlist?list=PLC6daajq6Qj_LW87J7RYmZiSR4b-ZWNP9)
 ### Urdu/Hindi
 - [Shaykh Abu Zaid Zameer](https://www.youtube.com/watch?v=P_sYujP6qV0&list=PLgpPOIQ2eEw13DHyAcSdzxDtQpE14NDHC)
 - [Dr. Obaidur Rahman Madani](https://www.youtube.com/playlist?list=PLEN196nOejOhlZP77QE-iCjv1rf2MAQmS)
