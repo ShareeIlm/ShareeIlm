@@ -15,7 +15,7 @@ Download the for your device. upon running you are created by a window asking yo
 ## Command Palette is important (Ctrl-p)
 - All the functions you do like bolding text, create a file, deleting a file, creating a heading can be executed in the command palette. 
 - It can be opened with the `Ctrl-p` shortcut. You should learn to get comfortable with using the command palette as expands you ability to do work.
-	- You can also see various shortcuts for common functions like bolding text in the command palette
+	- You can also see various shortcuts for common functions in the command palette
 
 # Part 1: Learning the Syntax
 You can start writing now, but your text content will not look organized enough. Obsidian uses the **Markdown syntax** which is like a programming language but for writing notes. It's easy and simple to learn the markdown syntax. Here are some of its basics:
@@ -34,9 +34,13 @@ You can start writing now, but your text content will not look organized enough.
 Example:
 ```
 # Thursday
+text text text... 
 
 ## Morning
+text text text... 
+
 ### Breakfast
+text text text... 
 
 
 ## Evening
@@ -75,7 +79,7 @@ You can demote/indent a bullet by pressing "TAB" or promote/unindent it by press
 | Toggle Bullet list     | -    |
 | Toggle Numbered list | 1. |
 | Checkbox | - [ ] |
-| Ticket Checkbox | - [X] |
+| Ticked Checkbox | - [X] |
 
 Example:
 ```
