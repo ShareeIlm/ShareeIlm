@@ -9,10 +9,12 @@ Download the for your device. upon running you are created by a window asking yo
 - A "Vault" is just another fancy name for an Obsidian folder. Right now, you might not have a Vault so go ahead and create one.
 - Create a new note by:
 	- Ctrl-N
-	- Open the Command palette and search "Create new Note" (Ctrl-p)
+	- Open the **Command palette** and search "Create new Note" (Ctrl-p)
 - Upon executing the command, a new tab opens up with the title "Untitled". this is your file name so edit it to represent the data that is going to be in you note
 - Once create, you can start writing your notes
-- All the functions you do like bolding text, create a file, deleting a file, creating a heading can be executed in the command palette. It can be opened with the Ctrl-p shortcut. You should learn to get comfortable with using the command palette as expands you ability to do work.
+## Command Palette is important (Ctrl-p)
+- All the functions you do like bolding text, create a file, deleting a file, creating a heading can be executed in the command palette. 
+- It can be opened with the `Ctrl-p` shortcut. You should learn to get comfortable with using the command palette as expands you ability to do work.
 	- You can also see various shortcuts for common functions like bolding text in the command palette
 
 # Part 1: Learning the Syntax
@@ -148,3 +150,4 @@ You can quickly access your notes by pressing `Ctrl-O` or running "Open Quick Sw
 
 - if you have reached till this point, you should refer to the [Obsidian.md](https://help.obsidian.md/) documentation for more details
 - Experiment around with the core plugins and the community plugins. These are there to improve the functionality of the app.
+- to create PDFs, run "Export to PDF..." in the Command Palette
