@@ -1,3 +1,3 @@
-- **Notes PDFs**: [Usool At-Thalatha Shaykh Zulfiker Ibrahim Memon](./Notes/Usool%20At-Thalatha%20-%20Shaykh%20Zulfiker%20Ibrahim%20Memon)
+- **Notes PDFs**: [Usool At-Thalatha Shaykh Zulfiker Ibrahim Memon](/Notes/Usool%20At-Thalatha%20-%20Shaykh%20Zulfiker%20Ibrahim%20Memon/)
 - **Playlist**: [Explanation of al-Usul al-Thalathah - Shaykh Zulfiker Ibrahim Memon - YouTube](https://www.youtube.com/playlist?list=PLC6daajq6Qj_LW87J7RYmZiSR4b-ZWNP9)
 - **Book**: [Usool At-Thalatha (The Three Fundamental Principles)](../../Books/Aqeedah/The%203%20Fundamental%20Principles/Usool%20At-Thalatha%20(The%20Three%20Fundamental%20Principles).md)
