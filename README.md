@@ -3,6 +3,11 @@ This repository was created to share Islamic Information (like notes, tools, lec
 
 ---
 ---
+# Tools
+- [Islamic Tools](Misc/Islamic%20Tools.md)
+- [Obsidian Tutorial](Misc/Obsidian%20Tutorial.md)
+---
+---
 # Notes
 ## Standalone Lectures
 - **Notes**: [Islamic Finance](Notes/Islamic%20Finance%20-%20S.%20Obaidur%20Rahman%20and%20S.%20Tariq%20Safi/Islamic%20Finance%20-%20S.%20Obaidur%20Rahman%20and%20S.%20Tariq%20Safi%20-%20Incomplete.pdf) (Incomplete)
@@ -13,19 +18,13 @@ This repository was created to share Islamic Information (like notes, tools, lec
 ### Usool At Thalatha - Shaykh Zulfiker Ibrahim Memon
 - **Notes**: [Usool At-Thalatha Shaykh Zulfiker Ibrahim Memon](./Notes/Usool%20At-Thalatha%20-%20Shaykh%20Zulfiker%20Ibrahim%20Memon)
 	- **Playlist**: [Explanation of al-Usul al-Thalathah - Shaykh Zulfiker Ibrahim Memon - YouTube](https://www.youtube.com/playlist?list=PLC6daajq6Qj_LW87J7RYmZiSR4b-ZWNP9)
-	- **Book**: [The Three Fundamental Principles](Books/Aqeedah/Usool%20At-Thalatha%20(The%20Three%20Fundamental%20Principles).pdf)
----
----
-# Tools
-- [Islamic Tools](Misc/Islamic%20Tools.md)
-- [Obsidian Tutorial](Misc/Obsidian%20Tutorial.md)
-
+	- **Book**: [The Three Fundamental Principles](Books/Aqeedah/The%203%20Fundamental%20Principles/Usool%20At-Thalatha%20(The%20Three%20Fundamental%20Principles).pdf)
 ---
 ---
 # Books Downloads #todo 
 
 ## Aqeedah
-- [Usool At-Thalatha (The Three Fundamental Principles)](Books/Aqeedah/Usool%20At-Thalatha%20(The%20Three%20Fundamental%20Principles).md)
+- [Usool At-Thalatha (The Three Fundamental Principles)](Books/Aqeedah/The%203%20Fundamental%20Principles/Usool%20At-Thalatha%20(The%20Three%20Fundamental%20Principles).md)
 - [Kashf-Ush Shubuhaat (The Removal of the Doubts)](Books/Aqeedah/Kashf-Ush%20Shubuhaat%20(The%20Removal%20of%20the%20Doubts).pdf)
 
 ## Manhaj
@@ -81,5 +80,4 @@ This repository was created to share Islamic Information (like notes, tools, lec
 
 ## Arabic
 - #todo
-
 

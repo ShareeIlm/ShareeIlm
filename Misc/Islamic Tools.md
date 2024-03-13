@@ -49,6 +49,10 @@
 	- **Android**: 
 		- ⭐ [Prayer Times and Qibla](https://play.google.com/store/apps/details?id=com.reworewo.prayertimes&hl=en&gl=US)
 
+# Book Downloads
+---
+- ⭐ [Dar PDFs](https://darpdfs.org/)
+
 # Clips
 ---
 - **Telegram Channels**:
