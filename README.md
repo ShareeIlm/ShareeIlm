@@ -50,7 +50,7 @@ This repository was created to share Islamic Information (like notes, tools, lec
 	- [Markaz al-Sunnah - YouTube](https://youtube.com/@MarkazSunnahUK?si=Hc2IaMSRDDiiCVOq)
 - Shaykh Zulfiker Ibrahim Memon:
 	- [Shaykh Zulfiker Ibrahim Memon Official - YouTube](https://youtube.com/@ShaykhZulfikerMemon?si=vAJ4FKVbWK7-_OLX)
-- Multiple (Arab scholars):
+- Multiple Arab scholars (English Translated):
 	- [Scholarly Subtitles - YouTube](https://youtube.com/@Scholarly_Subtitles?si=75YWV4pjwSYKRf8Z)
 	- [Nesmu Dawah - YouTube](https://www.youtube.com/@nesmudawah)
 ## Urdu/Hindi
