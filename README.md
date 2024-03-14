@@ -19,7 +19,7 @@ This repository was created to share Islamic Information (like notes, tools, lec
 ## Manhaj Books
 
 ## Fiqh Books
-- [[Bulugh Al Maram - Shaykh Ibn Hajar]]
+- Bulugh Al Maram - Shaykh Ibn Hajar
 
 ## Hadith Books
 
