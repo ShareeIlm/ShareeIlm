@@ -66,3 +66,8 @@
 - **Note Taking**:
 	- Use a pocket book
 	- [Obsidian Tutorial](Obsidian/Obsidian%20Tutorial.md)
+- **Recording**:
+	- Dolby On
+		- Record audio for lectures and remove background noises 
+		- [IOS](https://apps.apple.com/us/app/dolby-on-record-audio-video/id1443964192)
+		- [Android](https://play.google.com/store/apps/details?id=com.dolby.dolby234&hl=en&gl=US)
