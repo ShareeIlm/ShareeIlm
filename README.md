@@ -1,3 +1,5 @@
+![bismillah-38304](Bismillah.png)
+
 # About
 This repository was created to share Islamic Information (like notes, tools, lectures etc.). You can learn more about me here [About Me](Misc/About%20Me.md).
 
@@ -8,37 +10,42 @@ This repository was created to share Islamic Information (like notes, tools, lec
 - [Obsidian Tutorial](Misc/Obsidian/Obsidian%20Tutorial.md) (Good note taking tool for Tabil Ul Ilm)
 ---
 ---
-# Books Downloads #todo 
+# Books Downloads 
 
 ## Aqeedah Books
-- [Usool At-Thalatha (The Three Fundamental Principles) - Shaykh Muhammad Ibn Abdul Wahhab](Books/Aqeedah/The%203%20Fundamental%20Principles/README.md)
-- [Kashf-Ush Shubuhaat (The Removal of the Doubts) - Shaykh Muhammad Ibn Abdul Wahhab](Books/Aqeedah/Removal%20Of%20Doubts/README.md)
-- Al Aqidah Al Wastiyyah - Shaykh Ul Islam Ibn Taymiyyah #todo 
-- Kitaab At Tawheed - Shaykh Muhammad Ibn Abdul Wahhab #todo 
+- [Usool At-Thalatha (The Three Fundamental Principles)](Books/Aqeedah/The%203%20Fundamental%20Principles/README.md) - Shaykh Muhammad Ibn Abdul Wahhab
+- [Kashf-Ush Shubuhaat (The Removal of the Doubts)](Books/Aqeedah/Removal%20Of%20Doubts/README.md) - Shaykh Muhammad Ibn Abdul Wahhab
+- [Al Aqidah Al Wastiyyah](Books/Aqeedah/Al%20Aqidah%20Al%20Wastiyah/README.md) - Shaykh Ul Islam Ibn Taymiyyah
+- [Kitaab At Tawheed (The book of Monotheism)](Books/Aqeedah/Kitaab%20At%20Tawheed%20(S.%20Muhammad)/README.md) - Shaykh Muhammad Ibn Abdul Wahhab
+- [Al Qawaid Al Arba (4 Fundamental Principles of Shirk)](Books/Aqeedah/4%20Fundamental%20Principles%20of%20Shirk/README.md) - Shaykh Muhammad Ibn Abdul Wahhab
 
 ## Manhaj Books
 
-## Fiqh Books #todo
-- Bulugh Al Maram - Shaykh Ibn Hajar
+## Fiqh Books
+- [Bulugh Al Maram](Books/Fiqh/Bulugh%20Al-Maram/README.md) - Shaykh Ibn Hajar
+
+### Salah
 
 ## Hadith Books
+### Muhaddis Collections #todo 
+- Sahih Bukhari
+- Sahih Muslim
+- Sunan Abi Dawud
+- Sunan An Nasai
+- Ibn Majah
+- Musnad Ahmed
+- Al Adab Wal Mufrad
+### Usool Ul Hadith
 
-## Arabic Books #todo 
-- Madina Book One - Key 
-- Madina Book Two - Key
-- Madina Book Three - Key
+## Arabic Books
+- [Madina Books and Keys](Books/Arabic/Madina%20Books/README.md)
 
-## Tafsir Books
+## Tafsir Books #todo 
 - Tafsir As Si'di
 - Tafsir Ibn Kathir
 
 ## Seerat Books
-- Ar Raheeq Al Maktoom
-
-## Adab Books
-- Al Adab Al Mufrad
-
-## Usool Ul Hadees Books
+- [Ar Raheeq Al Maktoom](Books/Seerah/Ar%20Raheeq%20Al%20Maktoom%20(The%20Sealed%20Nectar)/README.md) - Shaykh Safi Ur Rahman Mubarakpuri
 
 
 ---
@@ -62,6 +69,7 @@ This repository was created to share Islamic Information (like notes, tools, lec
 - Multiple Arab scholars (English Translated):
 	- [Scholarly Subtitles - YouTube](https://youtube.com/@Scholarly_Subtitles?si=75YWV4pjwSYKRf8Z)
 	- [Nesmu Dawah - YouTube](https://www.youtube.com/@nesmudawah)
+	- [Rabbaniyeen Translations - YouTube](https://www.youtube.com/@rabbaniyeen)
 ## Urdu/Hindi Channels
 - Shaykh Wasiullah Abbas (Makkah): 
 	- [Dr Wasiullah Abbas - YouTube](https://youtube.com/@DrWasiullahAbbas?si=5QYjJbPbHPfpkcPr)

@@ -13,6 +13,7 @@
 
 ## Book Explanations
 - [Shaykh Muhammad Ibn Salih Al Uthaymeen](Three%20Fundamental%20Principles%20(E.%20Uthaymeen).pdf)
+- [Shaykh Salih Al Fawzan](The%20Three%20Fundamental%20Principles%20(C.%20Salih%20Al%20Fawzan).pdf)
 
 ## Videos & Audios Explanations
 ### Arabic

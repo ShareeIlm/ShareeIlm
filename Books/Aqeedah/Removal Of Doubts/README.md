@@ -13,7 +13,7 @@
 # Explanation of the Book
 
 ## Book Explanations
-
+- [Shaykh Muhammad Salih Ibn Uthaymeen](Kashf_as-Shubuhat_Sharh_ibn_Uthaymeen.pdf)
 
 ## Videos & Audios Explanations
 ### Arabic
