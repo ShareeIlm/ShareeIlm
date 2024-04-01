@@ -3,7 +3,7 @@
 ## Arabic Book
 
 ## English Book
-- [Summarized Sahih Al-bukhari](Summarized%20Sahih%20Al-bukhari.pdf)
+- [Summarized Sahih Al-Bukhari](Summarized%20Sahih%20Al-bukhari.pdf)
 - Darussalam
 	1. [Sahih al-Bukhari Vol. 1 - 1-875](Sahih%20al-Bukhari%20Vol.%201%20-%201-875.pdf) 
 	2. [Sahih al-Bukhari Vol. 2 - 876-1772](Sahih%20al-Bukhari%20Vol.%202%20-%20876-1772.pdf) 
