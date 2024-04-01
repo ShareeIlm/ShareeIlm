@@ -15,6 +15,7 @@
 
 ## Videos & Audios Explanations
 ### Arabic
+- [Sheikh Haitham Sarhaan](https://www.youtube.com/playlist?list=PLPucCcCvpW8F7TglTBqGOCzCAFitQy-ys)
 ### English
 - [Sheikh Haitham Sarhaan](https://www.youtube.com/playlist?list=PLPucCcCvpW8F7TglTBqGOCzCAFitQy-ys)
 ### Urdu/Hindi
