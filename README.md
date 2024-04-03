@@ -1,5 +1,4 @@
 ![Bismillah Gold](Misc/Bismillah%20Gold.png)
-
 # About
 This repository was created to share Islamic Information (like notes, tools, lectures etc.). You can learn more about me here [About Me](Misc/About%20Me.md).
 
@@ -63,35 +62,44 @@ This repository was created to share Islamic Information (like notes, tools, lec
 
 ## English Channels
 - Shaykh Zulfiker and Others (Salafi Scholars): 
-	- [Markaz al-Sunnah - YouTube](https://youtube.com/@MarkazSunnahUK?si=Hc2IaMSRDDiiCVOq)
+	- [Markaz al-Sunnah](https://youtube.com/@MarkazSunnahUK?si=Hc2IaMSRDDiiCVOq)
 - Shaykh Zulfiker Ibrahim Memon:
-	- [Shaykh Zulfiker Ibrahim Memon Official - YouTube](https://youtube.com/@ShaykhZulfikerMemon?si=vAJ4FKVbWK7-_OLX)
+	- [Shaykh Zulfiker Ibrahim Memon Official](https://youtube.com/@ShaykhZulfikerMemon?si=vAJ4FKVbWK7-_OLX)
 - Multiple Arab scholars (English Translated):
-	- [Scholarly Subtitles - YouTube](https://youtube.com/@Scholarly_Subtitles?si=75YWV4pjwSYKRf8Z)
-	- [Nesmu Dawah - YouTube](https://www.youtube.com/@nesmudawah)
-	- [Rabbaniyeen Translations - YouTube](https://www.youtube.com/@rabbaniyeen)
-## Urdu/Hindi Channels
-- Shaykh Wasiullah Abbas (Makkah): 
-	- [Dr Wasiullah Abbas - YouTube](https://youtube.com/@DrWasiullahAbbas?si=5QYjJbPbHPfpkcPr)
-- Shaykh Maqsood Ul Hasan Faizi:
-	- [islamidawah - YouTube](https://youtube.com/@islamidawah?si=wo9c4drMNC4_oOp8)
-- Dr Obaidullah Madani, Shaykh Abu Rizwan Mohammadi and others:
-	- [Markaz Imam Bukhari, Taloli - Mumbai - YouTube](https://www.youtube.com/@MarkazImamBukhari)
-- Shaykh Abdullah Nasir Rehmani
-    - [YouTube](https://youtube.com/@ShaikhAbdullahNasirRehmani?si=zmsTaJqf_5I8OVzn)
-- Shaykh Abu Rizwan Mohammadi, Shaykh Mohammad Rehmani, Shaykh Abu Zaid Zameer and others:
-	- General
-		- [AHLE HADEES ULAMA - YouTube](https://www.youtube.com/@ahlehadeesulama)
-		- [Salafi Dawat - Ahle Hadees - YouTube](https://www.youtube.com/@SalafiDawatAhleHadees)
-		- [DAR-UT-TAUHEED (دار التوحيد) - YouTube](https://www.youtube.com/@DARUTTAUHEED)
-	- Shaykh Abu Zaid Zameer:
-		- [Shaykh Abu Zaid Zameer - YouTube](https://www.youtube.com/@shaykhabuzaidzameer)
-		- [Salafy Fiqh Channel - YouTube](https://www.youtube.com/@SalafyFiqhChannel)
-		- [islamiclectures.net - YouTube](https://www.youtube.com/@islamiclecturesnet)
-		- [Salafy Answers - YouTube](https://www.youtube.com/salafyanswers) ([Search Here](https://www.google.com/search?q=TARAWEEH+site%3Ahttps%3A%2F%2Fwww.youtube.com%2F+%22Salafy+Answers+%22Abu+Zaid+Zameer%22&oq=TARAWEEH+site%3Ahttps%3A%2F%2Fwww.youtube.com%2F+%22Salafy+Answers+%22Abu+Zaid+Zameer%22&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBjgzajBqMagCALACAA&sourceid=chrome&ie=UTF-8))
-	- Shaykh Muhammad Rehmani and others:
-		- [Sanabil Dawah Centre - YouTube](https://youtube.com/@SanabilDawahCentre?si=mznWytEfguN2cIGX)
-
+	- [Scholarly Subtitles](https://youtube.com/@Scholarly_Subtitles?si=75YWV4pjwSYKRf8Z)
+	- [Nesmu Dawah](https://www.youtube.com/@nesmudawah)
+	- [Rabbaniyeen Translations](https://www.youtube.com/@rabbaniyeen)
 ## Arabic Channels
 - #todo
 
+
+## Urdu/Hindi Channels
+- Shaykh Wasiullah Abbas (Makkah): 
+	- [Dr Wasiullah Abbas](https://youtube.com/@DrWasiullahAbbas?si=5QYjJbPbHPfpkcPr)
+- Shaykh Maqsood Ul Hasan Faizi:
+	- [islamidawah](https://youtube.com/@islamidawah?si=wo9c4drMNC4_oOp8)
+- Dr Obaidullah Madani, Shaykh Abu Rizwan Mohammadi and others:
+	- [Markaz Imam Bukhari, Taloli - Mumbai](https://www.youtube.com/@MarkazImamBukhari)
+- Shaykh Abdullah Nasir Rehmani
+    - [Abdullah Nasir Rehmani](https://youtube.com/@ShaikhAbdullahNasirRehmani?si=zmsTaJqf_5I8OVzn)
+- Shaikh Tauseef Ur Rehman Rashidi
+	- [syedtauseefurrehmanoffical](https://youtube.com/@syedtauseefurrehmanoffical)
+- Shaikh JalalUddin Qasmi, Shaik Badiuz Zaman madani, Shaikh Dr. Syed Meraj Rabbani, Shaikh Sayyad Wajid Hasan Madani
+	- [MasjideBilqis](https://youtube.com/@MasjideBilqis)
+- Shaykh Abu Rizwan Mohammadi, Shaykh Mohammad Rehmani, Shaykh Abu Zaid Zameer and others:
+	- General
+		- [AHLE HADEES ULAMA](https://www.youtube.com/@ahlehadeesulama)
+		- [Salafi Dawat - Ahle Hadees](https://www.youtube.com/@SalafiDawatAhleHadees)
+		- [DAR-UT-TAUHEED (دار التوحيد)](https://www.youtube.com/@DARUTTAUHEED)
+		- [cal2tawheed](https://www.youtube.com/@cal2tawheed/videos)
+		- [batilexpose](https://youtube.com/@batilexpose1752)
+		- [MasjidTawheedQutubShahi](https://youtube.com/@MasjidTawheedQutubShahi)
+	- Shaykh Abu Zaid Zameer:
+		- [Shaykh Abu Zaid Zameer](https://www.youtube.com/@shaykhabuzaidzameer)
+		- [Salafy Fiqh Channel](https://www.youtube.com/@SalafyFiqhChannel)
+		- [islamiclectures.net](https://www.youtube.com/@islamiclecturesnet)
+		- [Salafy Answers](https://www.youtube.com/salafyanswers) ([Search Here](https://www.google.com/search?q=TARAWEEH+site%3Ahttps%3A%2F%2Fwww.youtube.com%2F+%22Salafy+Answers+%22Abu+Zaid+Zameer%22&oq=TARAWEEH+site%3Ahttps%3A%2F%2Fwww.youtube.com%2F+%22Salafy+Answers+%22Abu+Zaid+Zameer%22&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBjgzajBqMagCALACAA&sourceid=chrome&ie=UTF-8))
+	- Shaykh Muhammad Rehmani and others:
+		- [Sanabil Dawah Centre](https://youtube.com/@SanabilDawahCentre)
+	- Shaikh Abu Rizwan Muhammadi
+		- [SheikhAbuRizwanMuhammad](https://youtube.com/@SheikhAbuRizwanMuhammadi)
