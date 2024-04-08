@@ -24,6 +24,7 @@ This repository was created to share Islamic Information (like notes, tools, lec
 - [Bulugh Al Maram](Books/Fiqh/Bulugh%20Al-Maram/README.md) - Shaykh Ibn Hajar
 
 ### Salah
+  - [An Authenticated Summary of the Prophets Prayer ﷺ](Books/Fiqh/Salah/An%20Authenticated%20Summary%20of%20the%20Prophets%20Prayer%20ﷺ.pdf) - Zubair Ali Zai
 
 ## Hadith Books
 ### Muhaddith Collections 
@@ -39,9 +40,12 @@ This repository was created to share Islamic Information (like notes, tools, lec
 ## Arabic Books
 - [Madina Books and Keys](Books/Arabic/Madina%20Books/README.md)
 
-## Tafsir Books #todo 
-- Tafsir As Si'di
-- Tafsir Ibn Kathir
+## Al-Quran #todo 
+- [Quran Al-Hilal and Muhsin Khan](https://github.com/ShareeIlm/ShareeIlm/releases/tag/Quran-Hilali)
+
+### Tafsir
+- [Tafsir As Si'di](https://github.com/ShareeIlm/ShareeIlm/releases/tag/Quran-Sadi)
+- [Tafsir Ibn Kathir](https://github.com/ShareeIlm/ShareeIlm/releases/tag/Quran)
 
 ## Seerat Books
 - [Ar Raheeq Al Maktoom](Books/Seerah/Ar%20Raheeq%20Al%20Maktoom%20(The%20Sealed%20Nectar)/README.md) - Shaykh Safi Ur Rahman Mubarakpuri
@@ -59,42 +63,50 @@ This repository was created to share Islamic Information (like notes, tools, lec
 ---
 ---
 # YouTube Channels Of Scholars
+⭐ = Is/Was well maintained
 
 ## English Channels
 - Shaykh Zulfiker and Others (Salafi Scholars): 
-	- [Markaz al-Sunnah](https://youtube.com/@MarkazSunnahUK?si=Hc2IaMSRDDiiCVOq)
+	- ⭐ [Markaz al-Sunnah](https://youtube.com/@MarkazSunnahUK?si=Hc2IaMSRDDiiCVOq)
 - Shaykh Zulfiker Ibrahim Memon:
 	- [Shaykh Zulfiker Ibrahim Memon Official](https://youtube.com/@ShaykhZulfikerMemon?si=vAJ4FKVbWK7-_OLX)
 - Multiple Arab scholars (English Translated):
-	- [Scholarly Subtitles](https://youtube.com/@Scholarly_Subtitles?si=75YWV4pjwSYKRf8Z)
-	- [Nesmu Dawah](https://www.youtube.com/@nesmudawah)
-	- [Rabbaniyeen Translations](https://www.youtube.com/@rabbaniyeen)
+	- ⭐ [Scholarly Subtitles](https://youtube.com/@Scholarly_Subtitles?si=75YWV4pjwSYKRf8Z)
+	- ⭐ [Nesmu Dawah](https://www.youtube.com/@nesmudawah)
+	- ⭐ [Rabbaniyeen Translations](https://www.youtube.com/@rabbaniyeen)
+	- [Ahlu Al-Thikir](https://youtube.com/@ahlual-thikir)
 ## Arabic Channels
-- #todo
+- Multiple Arab scholars (English Translated):
+	- ⭐ [Scholarly Subtitles](https://youtube.com/@Scholarly_Subtitles?si=75YWV4pjwSYKRf8Z)
+	- ⭐ [Nesmu Dawah](https://www.youtube.com/@nesmudawah)
+	- ⭐ [Rabbaniyeen Translations](https://www.youtube.com/@rabbaniyeen)
+	- ⭐ [Markaz al-Sunnah](https://youtube.com/@MarkazSunnahUK?si=Hc2IaMSRDDiiCVOq)
+	- [Ahlu Al-Thikir](https://youtube.com/@ahlual-thikir?si=QyQlgxbZg-vwpdsw)
 
 
 ## Urdu/Hindi Channels
 - Shaykh Wasiullah Abbas (Makkah): 
-	- [Dr Wasiullah Abbas](https://youtube.com/@DrWasiullahAbbas?si=5QYjJbPbHPfpkcPr)
+	- ⭐ [Dr Wasiullah Abbas](https://youtube.com/@DrWasiullahAbbas?si=5QYjJbPbHPfpkcPr)
 - Shaykh Maqsood Ul Hasan Faizi:
 	- [islamidawah](https://youtube.com/@islamidawah?si=wo9c4drMNC4_oOp8)
 - Dr Obaidullah Madani, Shaykh Abu Rizwan Mohammadi and others:
 	- [Markaz Imam Bukhari, Taloli - Mumbai](https://www.youtube.com/@MarkazImamBukhari)
 - Shaykh Abdullah Nasir Rehmani
-    - [Abdullah Nasir Rehmani](https://youtube.com/@ShaikhAbdullahNasirRehmani?si=zmsTaJqf_5I8OVzn)
+    - ⭐ [Abdullah Nasir Rehmani](https://youtube.com/@ShaikhAbdullahNasirRehmani?si=zmsTaJqf_5I8OVzn)
 - Shaikh Tauseef Ur Rehman Rashidi
-	- [syedtauseefurrehmanoffical](https://youtube.com/@syedtauseefurrehmanoffical)
+	- ⭐ [syedtauseefurrehmanoffical](https://youtube.com/@syedtauseefurrehmanoffical)
 - Shaikh JalalUddin Qasmi, Shaik Badiuz Zaman madani, Shaikh Dr. Syed Meraj Rabbani, Shaikh Sayyad Wajid Hasan Madani
 	- [MasjideBilqis](https://youtube.com/@MasjideBilqis)
 - Shaykh Abu Rizwan Mohammadi, Shaykh Mohammad Rehmani, Shaykh Abu Zaid Zameer and others:
 	- General
-		- [AHLE HADEES ULAMA](https://www.youtube.com/@ahlehadeesulama)
+		- ⭐ [AHLE HADEES ULAMA](https://www.youtube.com/@ahlehadeesulama)
 		- [Salafi Dawat - Ahle Hadees](https://www.youtube.com/@SalafiDawatAhleHadees)
-		- [DAR-UT-TAUHEED (دار التوحيد)](https://www.youtube.com/@DARUTTAUHEED)
+		- ⭐ [DAR-UT-TAUHEED (دار التوحيد)](https://www.youtube.com/@DARUTTAUHEED)
 		- [cal2tawheed](https://www.youtube.com/@cal2tawheed/videos)
 		- [batilexpose](https://youtube.com/@batilexpose1752)
 		- [MasjidTawheedQutubShahi](https://youtube.com/@MasjidTawheedQutubShahi)
-	- Shaykh Abu Zaid Zameer:
+		- [TAWHEEDAurSHIRK](https://www.youtube.com/@TAWHEEDAurSHIRK)
+	- ⭐ Shaykh Abu Zaid Zameer:
 		- [Shaykh Abu Zaid Zameer](https://www.youtube.com/@shaykhabuzaidzameer)
 		- [Salafy Fiqh Channel](https://www.youtube.com/@SalafyFiqhChannel)
 		- [islamiclectures.net](https://www.youtube.com/@islamiclecturesnet)
