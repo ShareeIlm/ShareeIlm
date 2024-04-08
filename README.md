@@ -40,7 +40,7 @@ This repository was created to share Islamic Information (like notes, tools, lec
 ## Arabic Books
 - [Madina Books and Keys](Books/Arabic/Madina%20Books/README.md)
 
-## Al-Quran #todo 
+## Al-Quran
 - [Quran Al-Hilal and Muhsin Khan](https://github.com/ShareeIlm/ShareeIlm/releases/tag/Quran-Hilali)
 
 ### Tafsir
