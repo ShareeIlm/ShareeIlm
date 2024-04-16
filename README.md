@@ -51,6 +51,9 @@ This repository was created to share Islamic Information (like notes, tools, lec
 ## Seerat Books
 - [Ar Raheeq Al Maktoom](Books/Seerah/Ar%20Raheeq%20Al%20Maktoom%20(The%20Sealed%20Nectar)/README.md) - Shaykh Safi Ur Rahman Mubarakpuri
 
+# Fatwa Books
+---
+- [Collection of Fatwa](https://github.com/ShareeIlm/ShareeIlm/releases/tag/Fatwa) - Shaykh Salih Al Uthaymeen, Shaykh Abdul Aziz Bin Baz, and more
 
 ---
 ---
