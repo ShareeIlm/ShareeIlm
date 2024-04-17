@@ -23,6 +23,8 @@
 	- ⭐ [Shaykh Aziz Bin Farhan](https://t.me/sheikhaziz)
 	- [Shaykh Salih Al Fawzan](https://t.me/SheikhSalihAlFawzan) 
 	- [Shaykh Albani](https://t.me/AlbaniEng)
+- **PDF**:
+	- [Collection of Fatwa](https://github.com/ShareeIlm/ShareeIlm/releases/tag/Fatwa) - Shaykh Salih Al Uthaymeen, Shaykh Abdul Aziz Bin Baz, and more
 
 # QURAN
 ---

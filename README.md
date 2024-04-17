@@ -26,6 +26,7 @@ This repository was created to share Islamic Information (like notes, tools, lec
 ### Salah
   - [An Authenticated Summary of the Prophets Prayer ﷺ](Books/Fiqh/Salah/An%20Authenticated%20Summary%20of%20the%20Prophets%20Prayer%20ﷺ.pdf) - Zubair Ali Zai
   - [The Description of the Prophet’s Prayer from the Pure Sunnah](Books/Fiqh/Salah/The_Description_of_the_Prophet’s_Prayer_from_the_Pure_Sunnah.pdf) - Shaykh Muhammad Bazmool
+  - [Description-of-the-Prophets-Prayer-Shaykh-al-Albānī-1](Books/Fiqh/Salah/Description-of-the-Prophets-Prayer-Shaykh-al-Albānī-1.pdf) - Shaykh Nasir Ud Din Albani
 
 ## Hadith Books
 ### Muhaddith Collections 
