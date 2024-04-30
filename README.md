@@ -20,8 +20,8 @@ This repository was created to share Islamic Information (like notes, tools, lec
 
 - [Usool At-Thalatha (The Three Fundamental Principles)](Books/Aqeedah/The%203%20Fundamental%20Principles/README.md) - Shaykh Muhammad Ibn Abdul Wahhab
 - [Kashf-Ush Shubuhaat (The Removal of the Doubts)](Books/Aqeedah/Removal%20Of%20Doubts/README.md) - Shaykh Muhammad Ibn Abdul Wahhab
-- [Al Aqidah Al Wastiyyah](Books/Aqeedah/Al%20Aqidah%20Al%20Wastiyah/README.md) - Shaykh Ul Islam Ibn Taymiyyah
-- [Kitaab At Tawheed (The book of Monotheism)](Books/Aqeedah/Kitaab%20At%20Tawheed%20(S.%20Muhammad)/README.md) - Shaykh Muhammad Ibn Abdul Wahhab
+- [Al Aqidah Al Wastiyyah (The Moderate Creed)](Books/Aqeedah/Al%20Aqidah%20Al%20Wastiyah/README.md) - Shaykh Ul Islam Ibn Taymiyyah
+- [Kitaab At Tawheed (The Book of Monotheism)](Books/Aqeedah/Kitaab%20At%20Tawheed%20(S.%20Muhammad)/README.md) - Shaykh Muhammad Ibn Abdul Wahhab
 - [Al Qawaid Al Arba (4 Fundamental Principles of Shirk)](Books/Aqeedah/4%20Fundamental%20Principles%20of%20Shirk/README.md) - Shaykh Muhammad Ibn Abdul Wahhab
 
 ## Manhaj Books
@@ -34,7 +34,7 @@ This repository was created to share Islamic Information (like notes, tools, lec
 
   - [An Authenticated Summary of the Prophets Prayer ﷺ](Books/Fiqh/Salah/An%20Authenticated%20Summary%20of%20the%20Prophets%20Prayer%20ﷺ.pdf) - Zubair Ali Zai
   - [The Description of the Prophet’s Prayer from the Pure Sunnah](Books/Fiqh/Salah/The_Description_of_the_Prophet’s_Prayer_from_the_Pure_Sunnah.pdf) - Shaykh Muhammad Bazmool
-  - [Description-of-the-Prophets-Prayer-Shaykh-al-Albānī-1](Books/Fiqh/Salah/Description-of-the-Prophets-Prayer-Shaykh-al-Albānī-1.pdf) - Shaykh Nasir Ud Din Albani
+  - [Description of the Prophets Prayer Shaykh al-Albānī](Books/Fiqh/Salah/Description-of-the-Prophets-Prayer-Shaykh-al-Albānī-1.pdf) - Shaykh Nasir Ud Din Albani
 
 ## Hadith Books
 
