@@ -3,7 +3,8 @@ Obsidian is a note taking app which emphasized on creating links between notes. 
 - Website and Download Link: [Obsidian](https://www.obsidian.md)
 - For syncing with Phone, Jump here: [Syncing Obsidian](Syncing%20Obsidian.md)
 
-# Getting started
+# Getting Started
+
 Download the for your device. upon running you are created by a window asking you to "Open" or "Create" a "Vault"
 
 - A "Vault" is just another fancy name for an Obsidian folder. Right now, you might not have a Vault so go ahead and create one.
@@ -12,12 +13,15 @@ Download the for your device. upon running you are created by a window asking yo
 	- Open the **Command palette** and search "Create new Note" (Ctrl-p)
 - Upon executing the command, a new tab opens up with the title "Untitled". this is your file name so edit it to represent the data that is going to be in you note
 - Once create, you can start writing your notes
-## Command Palette is important (Ctrl-p)
-- All the functions you do like bolding text, create a file, deleting a file, creating a heading can be executed in the command palette. 
+
+## Command Palette is Important (Ctrl-p)
+
+- All the functions you do like bolding text, create a file, deleting a file, creating a heading can be executed in the command palette.
 - It can be opened with the `Ctrl-p` shortcut. You should learn to get comfortable with using the command palette as expands you ability to do work.
 	- You can also see various shortcuts for common functions in the command palette
 
 # Part 1: Learning the Syntax
+
 You can start writing now, but your text content will not look organized enough. Obsidian uses the **Markdown syntax** which is like a programming language but for writing notes. It's easy and simple to learn the markdown syntax. Here are some of its basics:
 
 ## Headings
@@ -32,6 +36,7 @@ You can start writing now, but your text content will not look organized enough.
 | Headings Level 6 | ####### |
 
 Example:
+
 ```
 # Thursday
 text text text... 
@@ -49,6 +54,7 @@ text text text...
 ## Night
 ### Dinner
 ```
+
 Make sure to use proper level heading and giving each heading a proper title. you can jump between these heading using the right sidebar.
 
 ![Here](Obsidian%20Tutorial%20sidebar.png)
@@ -72,16 +78,18 @@ i am ==highlighted==
 ```
 
 ### Bullets
+
 You can demote/indent a bullet by pressing "TAB" or promote/unindent it by pressing "SHIFT-TAB"
 
 | Function    | Text    |
 | --- | --- |
 | Toggle Bullet list     | -    |
 | Toggle Numbered list | 1. |
-| Checkbox | - [ ] |
+| Checkbox | - [] |
 | Ticked Checkbox | - [X] |
 
 Example:
+
 ```
 - Holidays (promoted)
 	1. Sunday (demoted)
@@ -107,8 +115,8 @@ Morning Sunrise: [link](www.youtube.com)
 Evening Sunset: [link](www.youtube.com)
 ```
 
-
 # Part 2: Learning the Keyboard Shortcuts
+
 Efficiently learning to use Obsidian requires learning the keyboard shortcuts. You can head in the settings and set the shortcuts. Go to `Setting > Hotkeys`. Lets set a shortcut for headings level 1 to 3.
 
 - Go to Settings > Hotkeys
@@ -125,12 +133,14 @@ Efficiently learning to use Obsidian requires learning the keyboard shortcuts. Y
 - It is recommended to set shortcuts of commands you use frequently
 
 # Part 3: Linking
-You can link notes just like on Wikipedia.org. It's best to keep each file focused on one topic. This way, it can be referenced anywhere and still make sense on its own. 
+
+You can link notes just like on Wikipedia.org. It's best to keep each file focused on one topic. This way, it can be referenced anywhere and still make sense on its own.
 
 - Command Palette shortcut "Add Internal link" (set a shortcut for this)
 - You can view your links by opening the global graph by pressing `Ctrl-g` or running "Open Global Graph" in the command palette `Ctrl-p`.
 
-Syntax: 
+Syntax:
+
 ```
 [[filename]]
 
@@ -140,16 +150,19 @@ OR
 ```
 
 Example: `Morning` file says
+
 ```
 The [[sun]] rises during this time
 ```
 
 The `Sun` file says
+
 ```
 It rises in the [[Morning|morning]]
 ```
 
 # Part 4: Misc
+
 You can quickly access your notes by pressing `Ctrl-O` or running "Open Quick Switcher" in the command palette.
 
 - if you have reached till this point, you should refer to the [Obsidian.md](https://help.obsidian.md/) documentation for more details
