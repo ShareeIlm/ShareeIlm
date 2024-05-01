@@ -79,7 +79,7 @@ This repository was created to share Islamic Information (like notes, tools, lec
 
 ## Standalone Lectures
 
-- **Notes**: [Islamic Finance](Notes/Islamic%20Finance%20-%20S.%20Obaidur%20Rahman%20and%20S.%20Tariq%20Safi/Islamic%20Finance%20-%20S.%20Obaidur%20Rahman%20and%20S.%20Tariq%20Safi%20-%20Incomplete.pdf) (Incomplete) | **Videos**: [Video 1](https://www.youtube.com/watch?v=_w3D_90Yuj8) [Video 2](https://www.youtube.com/watch?v=1IhG1UtEvmI) [Video 3](https://www.youtube.com/watch?v=7anzIdv9fzg)
+- **Notes**: [Islamic Finance](Notes/Islamic%20Finance%20-%20S.%20Obaidur%20Rahman%20and%20S.%20Tariq%20Safi/Islamic%20Finance%20-%20S.%20Obaidur%20Rahman%20and%20S.%20Tariq%20Safi%20v2.pdf) | **Videos**: [Video 1](https://www.youtube.com/watch?v=_w3D_90Yuj8) [Video 2](https://www.youtube.com/watch?v=1IhG1UtEvmI) [Video 3](https://www.youtube.com/watch?v=7anzIdv9fzg)
 - **Notes**: [The Status Of Sunnah - Shaykh Zulfiker Ibrahim Memon](/Notes/The%20Status%20of%20Sunnah%20-%20Shaykh%20Zulfiker%20Ibrahim%20Memon/The%20Status%20of%20Sunnah%20-%20Shaykh%20Zulfiker%20Ibrahim%20Memon.pdf) | **Video**: [Video link](https://www.youtube.com/watch?v=M8uv7pcXubA)
 
 ## Teaching Books
@@ -91,7 +91,7 @@ This repository was created to share Islamic Information (like notes, tools, lec
 
 # YouTube Channels Of Scholars
 
-⭐ = Is/Was well maintained
+- ⭐ = Is/Was well maintained
 
 ## English Channels
 
