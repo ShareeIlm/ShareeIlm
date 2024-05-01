@@ -1,14 +1,14 @@
-## Plain Book
+# Plain Book
 
-## Arabic Book
+# Arabic Book
 
 - [The Three Fundamental Principles (Arabic)](Arabic%20-%20Usool%20At-Thalatha%20(The%20Three%20Fundamental%20Principles).pdf)
 
-## English Book
+# English Book
 
 - [Usool At-Thalatha (The Three Fundamental Principles)](Usool%20At-Thalatha%20(The%20Three%20Fundamental%20Principles).pdf)
 
-## Urdu Book
+# Urdu Book
 
 - [Three Fundamentals URDU](Three%20Fundamentals%20(Urdu).pdf)
 
