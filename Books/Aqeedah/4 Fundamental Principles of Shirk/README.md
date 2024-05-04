@@ -2,13 +2,14 @@
 
 ## Arabic Book
 
-- [sharh_qawaid_arba_fawzaan](sharh_qawaid_arba_fawzaan.pdf)
 
 ## English Book
 
 - [Four Principles of Shirk](Four%20Principles%20of%20Shirk.pdf)
 
 ## Urdu Book
+
+- [sharh_qawaid_arba_fawzaan](sharh_qawaid_arba_fawzaan.pdf)
 
 # Explanation of the Book
 

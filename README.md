@@ -126,7 +126,7 @@ This repository was created to share Islamic Information (like notes, tools, lec
 	- ⭐ [Abdullah Nasir Rehmani](https://youtube.com/@ShaikhAbdullahNasirRehmani?si=zmsTaJqf_5I8OVzn)
 - Shaikh Tauseef Ur Rehman Rashidi
 	- ⭐ [syedtauseefurrehmanoffical](https://youtube.com/@syedtauseefurrehmanoffical)
-- Shaikh JalalUddin Qasmi, Shaik Badiuz Zaman madani, Shaikh Dr. Syed Mirage Rabbani, Shaikh Sayyad Wajid Hasan Madani
+- Shaikh JalalUddin Qasmi, Shaik Badiuz Zaman madani, Shaikh Dr. Syed Meraj Rabbani, Shaikh Sayyad Wajid Hasan Madani
 	- [MasjideBilqis](https://youtube.com/@MasjideBilqis)
 - Shaykh Abu Rizwan Mohammadi, Shaykh Mohammad Rehmani, Shaykh Abu Zaid Zameer and others:
 	- General
