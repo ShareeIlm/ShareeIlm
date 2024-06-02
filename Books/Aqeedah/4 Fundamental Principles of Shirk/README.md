@@ -2,7 +2,6 @@
 
 ## Arabic Book
 
-
 ## English Book
 
 - [Four Principles of Shirk](Four%20Principles%20of%20Shirk.pdf)
@@ -25,6 +24,8 @@
 ### Arabic
 
 ### English
+
+- [Shaykh Zulfiker Ibrahim Memon](https://youtube.com/playlist?list=PLvTE0tS3NwE_WQXVeJ5mOQOgPT-4qwM59&si=Y4LbMCWrmNFHjmPo)
 
 ### Urdu/Hindi
 
